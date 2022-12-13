@@ -1,5 +1,8 @@
 # cv_yolo_scaffold altered for Art-Style-Recognition
 
+### Cleaning Scripts
+https://github.com/organization-x/art_style_detect
+
 ### File Structure
 The files/directories which you will need to edit are **bolded**, and the files you may need to edit are *italicized*.
 DO NOT TOUCH OTHER FILES.
